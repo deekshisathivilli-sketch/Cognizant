@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant__deepskilling.AssertionsTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.557 s -- in com.cognizant__deepskilling.AssertionsTest
